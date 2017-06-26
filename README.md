@@ -1,5 +1,9 @@
 # Lineparser
-A module with functions for parsing and reformatting text.
+A module for parsing and reformatting text. Includes functions for:
+* Cleaning text for database queries
+* Transforming letter case
+* Choosing between different versions of a text
+* Choosing whether to omit part of the text or not
 
 ## Authors
 * Angelica Catalan ([Tumthe3](https://github.com/Tumthe3))
