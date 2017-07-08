@@ -1,4 +1,4 @@
-# Lineparser
+# Pyliner
 A module for parsing and reformatting text. Includes functions for:
 * Cleaning text for database queries
 * Transforming letter case
