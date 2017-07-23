@@ -4,7 +4,9 @@ from setuptools import setup
 setup(name="Pyliner",
       version="1.0",
       description="",
-      author="Angelica Catalan",
+      url="https://github.com/Tumthe3/Pyliner",
+      author="Tumthe3",
+      author_email="tumthe3@gmail.com",
       packages=["pyliner"],
       license="MIT"
      )
