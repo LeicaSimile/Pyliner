@@ -6,7 +6,7 @@ A module for parsing and reformatting text. Includes functions for:
 * Choosing whether to omit part of the text or not
 
 ## Authors
-* Angelica Catalan ([Tumthe3](https://github.com/Tumthe3))
+* Angelica Catalan ([LeicaSimile](https://github.com/LeicaSimile))
 
 ## License
 This module uses the [MIT License.](LICENSE.md) Go nuts.
