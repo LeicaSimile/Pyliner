@@ -2,7 +2,7 @@
 import random
 import re
 
-import settings
+from . import settings
 
 ## === Functions === ##
 def clean(line):

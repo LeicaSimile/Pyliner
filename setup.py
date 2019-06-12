@@ -2,9 +2,9 @@
 from setuptools import setup
 
 setup(name="Pyliner",
-      version="1.0",
+      version="1.1",
       description="",
-      url="https://github.com/LeicaSimile/Pyliner",
+      url="https://github.com/LeicaSimile/pyliner",
       author="LeicaSimile",
       author_email="leicasimile@gmail.com",
       packages=["pyliner"],
